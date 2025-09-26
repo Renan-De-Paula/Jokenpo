@@ -13,9 +13,7 @@ Exibição colorida dos resultados.
 Lógica completa para determinar o vencedor ou empate.
 
 Exemplo de Uso
-bash
-Copiar
-Editar
+
 Qual sua jogada? 2  
 JO  
 KEN  
@@ -23,9 +21,7 @@ PO!!!
 Jogador: tesoura.  
 Computador: papel.  
 Jogador ganhou
-bash
-Copiar
-Editar
+
 Qual sua jogada? 1  
 JO  
 KEN  
@@ -33,6 +29,8 @@ PO!!!
 Jogador: papel.  
 Computador: papel.  
 Empate!
+
+
 Tecnologias Utilizadas
 Python 3.x
 
@@ -44,14 +42,6 @@ Lógica condicional (if/elif/else)
 
 Tuplas e formatação de strings
 
-Melhorias Futuras
-Validação de entrada do usuário.
-
-Interface gráfica (GUI) com botões.
-
-Placar com múltiplas rodadas.
-
-Modo multiplayer local.
 
 Licença
 Este projeto está sob a licença MIT.
